@@ -1,10 +1,10 @@
-# V2Ray Heroku
+# V2Ray 而已
 
-**若需部署 V2Ray VLESS，请转到 [vless](https://github.com/bclswl0827/v2ray-heroku/tree/vless) 分支。**
+**垃圾VLESS 明文传输。**
 
 ## 概述
 
-本专案用于在 Heroku 上部署 V2Ray WebSocket，在合理使用的程度下，本镜像不会因为大量占用资源而导致封号。
+ V2Ray一键脚本
 
 部署完成后，每次启动应用时，运行的 V2Ray 将始终为最新版本
 
@@ -12,9 +12,9 @@
 
 ### 步骤
 
- 1. Fork 本专案到自己的 GitHub 账户（用户名以 `example` 为例）
- 2. 修改专案名称，注意不要包含 `v2ray` 和 `heroku` 两个关键字（修改后的专案名以 `demo` 为例）
- 3. 修改 `README.md`，将 `bclswl0827/v2ray-heroku` 替换为自己的内容（如 `example/demo`）
+ 1. 直接点击部署好吧
+
+
 
 > [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/bclswl0827/v2ray-heroku)
 
@@ -38,6 +38,6 @@
 
 ## 注意
 
- 1. **请勿滥用本专案，类似 Heroku 的免费服务少之又少，且用且珍惜**
+ 1. **请勿滥用本专案，类似 PaaS 的免费服务少之又少，且用且珍惜**
  2. 若使用域名接入 CloudFlare，请考虑启用 TLS 1.3
  3. AWS 绝大部分 IPv4 地址已被 Twitter 屏蔽
