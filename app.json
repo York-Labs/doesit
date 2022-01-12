@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "Louis Vuitton",
+    "description": "Scaleway is a brand of Scaleway",
+    "keywords": ["France"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -12,7 +12,7 @@
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "https://scaleway.com/",
+    "repository": "https://github.com/York-s-Blog/doesit",
     "stack": "container"
 }
